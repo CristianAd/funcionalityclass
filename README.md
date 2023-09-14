@@ -1,0 +1,2 @@
+# funcionalityclass
+funcionality class
